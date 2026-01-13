@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Responsive Furniture  Website<br>🌱 I’m currently learning  JS<br>💬 Ask me about Javascript<br>⚡ Fun fact I learn fast, unless its something i genuinely love. Then the universe nerfs me.
+🔭 I’m currently working on Multipage Grocery Website with React and Tailwind CSS <br>🌱 I’m currently learning  React JS<br>💬 Ask me about Javascript<br>⚡ Fun fact I learn fast, unless its something i genuinely love. Then the universe nerfs me.
 
 
 ## 🌐 Socials:
