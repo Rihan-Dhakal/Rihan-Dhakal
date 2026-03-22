@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Multipage Grocery Website with React and Tailwind CSS <br>🌱 I’m currently learning  React JS<br>💬 Ask me about Javascript<br>⚡ Fun fact I learn fast, unless its something i genuinely love. Then the universe nerfs me.
+🔭 I’m currently working on Full stack Chat-APP WITH MERN stack. <br>🌱 I’m currently learning  Node JS<br>💬 Ask me about React<br>⚡ Fun fact I learn fast, unless its something i genuinely love. Then the universe nerfs me.
 
 
 ## 🌐 Socials:
@@ -16,6 +16,9 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/React/React-original.svg" height="60" alt="React logo"  />
   <img width="12" />
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
